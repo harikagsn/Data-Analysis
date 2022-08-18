@@ -1,4 +1,4 @@
-# Data-Analysis
+# Kentucky Employee Wages - Data Analysis
 Louisville is an awesome city for many reasons: it offers so many food and entertainment options, is a short drive to visit many other cities, and is known for its reasonable cost of living.
 
 However, lower cost of living can also lead to lower wages.
